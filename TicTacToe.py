@@ -1,4 +1,3 @@
-#!C:\Users\LENOVOTHINKPADW540\AppData\Local\Programs\Python\Python38-32\python.exe
 
 #Import
 from random import choice
